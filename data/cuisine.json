@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "chef_id": 1,
+    "recipeName": "rice",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "this is how you cook rice",
+    "ratings": 4
+  },
+  {
+    "id": 2,
+    "chef_id": 1,
+    "recipeName": "rice",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "this is how you cook rice",
+    "ratings": 4
+  },
+  {
+    "id": 3,
+    "chef_id": 1,
+    "recipeName": "rice",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "this is how you cook rice",
+    "ratings": 4
+  }
+]
