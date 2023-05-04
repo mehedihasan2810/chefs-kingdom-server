@@ -3,24 +3,162 @@
     "id": 1,
     "chef_id": 1,
     "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
-    "method": "this is how you cook rice",
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done. rice for approximate 30 mins thats it then u will have ur rice done.",
     "ratings": 4
   },
   {
     "id": 2,
     "chef_id": 1,
-    "recipeName": "rice",
-    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
-    "method": "this is how you cook rice",
-    "ratings": 4
+    "recipeName": "Beef Maskot",
+    "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["beef","salt", "chili", "mustard", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 3.5
   },
   {
     "id": 3,
     "chef_id": 1,
+    "recipeName": "Burger",
+    "img": "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["chicken","salt", "chili", "breed", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 3
+  },
+  {
+    "id": 4,
+    "chef_id": 2,
+    "recipeName": "Vegetables",
+    "img": "https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["Cucumber", "chili", "mustard", "chili"],
+    "method": "all u need is some healthy vegetables like cucumber strawberry, milk, orange many more",
+    "ratings": 2
+  },
+  {
+    "id": 5,
+    "chef_id": 2,
     "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
-    "method": "this is how you cook rice",
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 4
+  },
+  {
+    "id": 6,
+    "chef_id": 2,
+    "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 4
+  },
+  {
+    "id": 7,
+    "chef_id": 3,
+    "recipeName": "Bangladeshi Pasta",
+    "img": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["flour", "chili", "mustard", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 4.5
+  },
+  {
+    "id": 8,
+    "chef_id": 3,
+    "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 4
+  },
+  {
+    "id": 9,
+    "chef_id": 3,
+    "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 4
+  },
+  {
+    "id": 10,
+    "chef_id": 4,
+    "recipeName": "Deshi Noodles",
+    "img": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "ingredients": ["flour", "chili", "mustard", "chili"],
+    "method": "bring some packets of noodles from shops and then boil them give some vegetables then spicy masala",
+    "ratings": 4
+  },
+  {
+    "id": 11,
+    "chef_id": 4,
+    "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 4
+  },
+  {
+    "id": 12,
+    "chef_id": 4,
+    "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 4
+  },
+  {
+    "id": 13,
+    "chef_id": 5,
+    "recipeName": "Biriyani",
+    "img": "https://images.unsplash.com/photo-1630409346824-4f0e7b080087?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1246&q=80",
+    "ingredients": ["rice", "chicken", "mustard", "chili"],
+    "method": "take some kashmiri rice then boil then sprinkle some chili, mustard give some vegetable like brocoli thats it now u can cook biriyani.",
+    "ratings": 5
+  },
+  {
+    "id": 14,
+    "chef_id": 5,
+    "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 4
+  },
+  {
+    "id": 15,
+    "chef_id": 5,
+    "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 4
+  },
+  {
+    "id": 16,
+    "chef_id": 6,
+    "recipeName": "Kabab",
+    "img": "https://images.unsplash.com/photo-1616486447077-f8d3f7bae6b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["chicken", "chili", "mustard", "chili"],
+    "method": "take some chicken then keep then above fire until then become brown give some spicy masala thats it",
+    "ratings": 4.8
+  },
+  {
+    "id": 17,
+    "chef_id": 6,
+    "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
+    "ratings": 4
+  },
+  {
+    "id": 18,
+    "chef_id": 6,
+    "recipeName": "rice",
+    "img": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": ["salt", "chili", "mustard", "rice", "chili"],
+    "method": "First u have to boil some rice for approximate 30 mins thats it then u will have ur rice done.",
     "ratings": 4
   }
 ]
